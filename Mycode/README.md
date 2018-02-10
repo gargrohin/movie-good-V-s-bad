@@ -1,7 +1,8 @@
 There are 3 files for different classification algorithms:
 
-sentiment.py:
+sentiment.py: SVM classification
 
-sentiment2.py:
+sentiment2.py: Naive Bayes classification
 
-sentiment3.py:
+sentiment3.py: Decision Trees
+
